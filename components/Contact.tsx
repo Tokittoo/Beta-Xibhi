@@ -11,7 +11,7 @@ const Contact = () => {
       <div className="flex justify-center">
         <div className="grid grid-cols-2 md:grid-cols-3 gap-8 max-w-2xl">
           <a
-            href="https://github.com"
+            href="https://github.com/xibhi"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center space-y-3 p-6 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 group"
@@ -23,7 +23,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/sibhibalamurugan"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center space-y-3 p-6 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 group"
@@ -35,7 +35,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://twitter.com"
+            href="https://www.x.com/xibhi_"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center space-y-3 p-6 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 group"
@@ -47,7 +47,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/_xibhi_"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center space-y-3 p-6 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 group"
@@ -71,7 +71,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="mailto:hello@krish.dev"
+            href="mailto:sibhi.b@proton.me"
             className="flex flex-col items-center space-y-3 p-6 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors duration-200 group"
           >
             <div className="p-4 rounded-full bg-gray-50 dark:bg-gray-800 group-hover:bg-blue-500 group-hover:text-white transition-all duration-200">
