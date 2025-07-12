@@ -19,10 +19,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Krish - Portfolio",
+  title: "Sibhi - Portfolio",
   description:
     "Welcome to my corner of the internet where I turn coke into code and bugs into features. Warning: May contain traces of actual competence.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
