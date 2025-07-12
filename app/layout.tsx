@@ -19,6 +19,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
+  icons: {
+    icon: '/favicon.ico',
+  },
   title: "Sibhi - Portfolio",
   description:
     "Welcome to my corner of the internet where I turn coke into code and bugs into features. Warning: May contain traces of actual competence.",
